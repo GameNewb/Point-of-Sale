@@ -1,0 +1,12 @@
+Royale with Cheese|3.99
+Le Big Mac|4.99
+Milk Shake|5.00
+Soda|2.00
+Fries|2.50
+Apple Pie|2.99
+Cheeseburger|.99
+Salad|10.99
+Lobster|26.99
+Chicken Fajita|4.99
+Chicken Nuggets|6.99
+Happy Meal|9.99
